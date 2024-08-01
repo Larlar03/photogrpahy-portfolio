@@ -13,16 +13,6 @@ export default function Home() {
 					Photography by
 				</h2>
 				<h1 className="text-7xl text-crayola-blue font-maragsa">Lana Gordon</h1>
-				{/* <ul className="text-sm">
-					{pages.map((page) => (
-						<li
-							key={page.title}
-							className="inline-block mr-3 underline leading-6"
-						>
-							<Link href={page.slug}>{page.title}</Link>
-						</li>
-					))}
-				</ul> */}
 				<nav className="mb-2">
 					<Navbar />
 				</nav>
