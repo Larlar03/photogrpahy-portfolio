@@ -11,6 +11,9 @@ const config: Config = {
 			colors: {
 				'crayola-blue': '#1362FF',
 				milk: '#FFFCF5',
+				'persian-green': '#0eaa8b',
+				'orange-soda': '#fa573e',
+				'dark-grey': '#292929',
 			},
 			fontFamily: {
 				maragsa: ['Maragsa', 'sans-serif'],
